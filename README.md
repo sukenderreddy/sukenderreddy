@@ -49,6 +49,10 @@
     <td><b>📊 Data Analytics & Visualization</b></td>
     <td>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=seaborn&logoColor=white" height="25">
     </td>
   </tr>
 </table>
@@ -95,3 +99,5 @@
   </tr>
 </table>
 
+---
+\
